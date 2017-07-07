@@ -1,7 +1,7 @@
 {
   "name": "@mazechazer/redux-loop",
   "npmName": "@mazechazer/redux-loop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sequence your effects naturally and purely by returning them from your reducers.",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
